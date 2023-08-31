@@ -1,0 +1,35 @@
+img {
+  width: 200px;
+  height: 200px;
+}
+.text-center {
+  text-align: center;
+}
+.text-json {
+  color: lightseagreen;
+}
+.font-style {
+  font-size: 2.5rem;
+}
+.myBtn {
+  font-size: 1.5rem;
+  padding: 0.2rem 0.5rem;
+  color: lightseagreen;
+  background: rgb(235, 235, 235);
+  cursor: pointer;
+  border-radius: 12px;
+  transition: 0.3s;
+}
+.myBtn:hover {
+  letter-spacing: 3px;
+}
+.button-style {
+  text-align: center;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+ul {
+  list-style: none;
+}
