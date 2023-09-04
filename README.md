@@ -1,2 +1,2 @@
 # Ajax-with-JSON-file 
-Get data with JSON from GITHUB.
+Get data with JSON from GITHUB
